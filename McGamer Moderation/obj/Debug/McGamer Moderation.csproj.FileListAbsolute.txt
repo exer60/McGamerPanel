@@ -1,0 +1,13 @@
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\bin\Debug\McGamer Moderation.exe.config
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\bin\Debug\McGamer Moderation.exe
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\bin\Debug\McGamer Moderation.pdb
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\obj\Debug\McGamer Moderation.csprojResolveAssemblyReference.cache
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\obj\Debug\McGamer_Moderation.Login.resources
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\obj\Debug\McGamer_Moderation.Main.resources
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\obj\Debug\McGamer_Moderation.Properties.Resources.resources
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\obj\Debug\McGamer Moderation.csproj.GenerateResource.Cache
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\obj\Debug\McGamer Moderation.exe
+E:\VisualStudo\Projects\McGamer Moderation\McGamer Moderation\obj\Debug\McGamer Moderation.pdb
+E:\VisualStudo\Projects\McGamer Moderation\McGamerPanel\McGamer Moderation\bin\Debug\McGamer Moderation.exe.config
+E:\VisualStudo\Projects\McGamer Moderation\McGamerPanel\McGamer Moderation\obj\Debug\McGamer Moderation.exe
+E:\VisualStudo\Projects\McGamer Moderation\McGamerPanel\McGamer Moderation\obj\Debug\McGamer Moderation.pdb
